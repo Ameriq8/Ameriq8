@@ -1,6 +1,7 @@
 ## 💨 Hello, my name is Amer
-I am Backend Developer. I have a lot of skills in a lot of things
-I living in Iraq
+I am Backend Developer. I have a lot of skills in a lot of things.
+
+Iam from 🇮🇶 Iraq-Karbala.
 
 ### 🌏 Info
 
