@@ -1,6 +1,8 @@
 ## 💨 Hello, my name is Amer
-I am Backend Developer. I have a lot of skills in a lot of things.<br />
-I am from 🇮🇶 Iraq-Karbala.
+I'm backend Developer.<br />
+I have a lot of skills in a lot of things.<br />
+I'm from 🇮🇶 Iraq-Karbala.<br />
+I'm a High School Student
 
 # 👨‍💻 Programming languages
 
