@@ -1,7 +1,7 @@
 ## 💨 Hello, my name is Amer
 I'm backend Developer.<br />
 I have a lot of skills in a lot of things.<br />
-I'm from 🇮🇶 Iraq-Karbala.<br />
+I'm from 🇮🇶 Iraq Karbala.<br />
 I'm a High School Student
 
 # 👨‍💻 Programming languages
@@ -21,10 +21,6 @@ I'm a High School Student
     &nbsp;
     <a>
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white&style=for-the-badge">
-    </a>
-    &nbsp;
-    <a>
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white&style=for-the-badge">
     </a>
 </p>
 
