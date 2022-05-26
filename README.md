@@ -20,7 +20,7 @@ I'm a High School Student
     </a>
     &nbsp;
     <a>
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white&style=for-the-badge">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white&style=for-the-badge">
     </a>
 </p>
 
@@ -81,6 +81,10 @@ I'm a High School Student
     &nbsp;
     <a>
     <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+    </a>
+    &nbsp;
+    <a>
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white&style=for-the-badge">
     </a>
 </p>
 
