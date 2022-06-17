@@ -1,5 +1,5 @@
 ## 💨 Hello, my name is Amer
-I'm Full Developer.<br />
+I'm Software Developer.<br />
 I have a lot of skills in a lot of things.<br />
 I'm from 🇮🇶 Iraq Karbala.<br />
 I'm a High School Student
