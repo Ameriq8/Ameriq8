@@ -30,6 +30,9 @@ I'm a High School Student
     <a>
     <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge">
     </a>
+    <a>
+    <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-16A394?style=for-the-badge&logo=prisma&logoColor=white">
+    </a>
 </p>
 
 ### 🗄️ Databases and cloud hosting
