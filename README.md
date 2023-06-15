@@ -1,8 +1,8 @@
-## 💨 Hello, my name is Amer
-I'm a software developer.<br />
-I have a lot of skills in a lot of things.<br />
-I'm from 🇮🇶 Iraq Karbala.<br />
-I'm a High School Student
+## 💨 Hello, I'm Amer (عامر)
+💭 | 18 years, Iraq-Karbala<br />
+🏆 | Self-taught | Software Developer<br />
+🗃️ | High School Student | Freelancer<br />
+🎂 | 7/7
 
 # 👨‍💻 Programming languages
 
@@ -31,7 +31,21 @@ I'm a High School Student
     <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge">
     </a>
     <a>
-    <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-16A394?style=for-the-badge&logo=prisma&logoColor=white">
+    <img alt="Next.js" src="https://img.shields.io/badge/next.js-000000.svg?logo=next.js&style=for-the-badge">
+    </a>
+    <a>
+    <img alt="Prisma" src="https://img.shields.io/badge/Prisma-16A394?style=for-the-badge&logo=prisma&logoColor=white">
+    </a>
+    <img alt="Nest.js" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+    </a>
+    <a>
+    <img alt="Mocha" src="https://img.shields.io/badge/mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" />
+    </a>
+    <a>
+    <img alt="Chai" src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" />
+    </a>
+    <a>
+    <img alt="Json Web Tokens" src="https://img.shields.io/badge/jwt-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
     </a>
 </p>
 
@@ -50,16 +64,16 @@ I'm a High School Student
     <a>
     <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" >
     </a>
+    <a>
+    <img alt="Amazon S3" src="https://img.shields.io/badge/AWS&nbsp;S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" />
+    </a>
 </p>
 
 ### 💻 Software and tools
 
 <p>
     <a>
-    <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge">
-    </a>
-    <a>
-    <img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white&style=for-the-badge">
+    <img alt="Debian Linux" src="https://img.shields.io/badge/debian-A81D33.svg?logo=debian&logoColor=white&style=for-the-badge"/>
     </a>
     <a>
     <img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white&style=for-the-badge">
@@ -71,13 +85,16 @@ I'm a High School Student
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge">
     </a>
     <a>
-    <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+    <img alt="Gitub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
     </a>
     <a>
-    <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+    <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
     </a>
     <a>
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white&style=for-the-badge">
+    </a>
+    <a>
+    <img alt="Nginx" src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
     </a>
 </p>
 
