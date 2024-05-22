@@ -1,7 +1,7 @@
 ## 💨 Hello, I'm Amer (عامر)
-💭 | 18 years, Iraq-Karbala<br />
+💭 | 19 years, Iraq-Karbala<br />
 🏆 | Self-taught | Software Developer<br />
-🗃️ | High School Student | Freelancer<br />
+🗃️ | Nursing Student | Freelancer<br />
 🎂 | 7/7
 
 # 👨‍💻 Programming languages
