@@ -100,6 +100,8 @@
 
 ### 📊 Other Info
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ameriq8&theme=dark&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=Ameriq8&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ameriq8&show_icons=true&theme=dark)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ameriq8&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ameriq8&theme=dark&show_icons=true&hide_border=false&layout=compact)
